@@ -1,4 +1,4 @@
-# Timepiece [![Version](http://img.shields.io/cocoapods/v/Timepiece.svg?style=flat)](http://cocoadocs.org/docsets/Timepiece) [![Platform](http://img.shields.io/cocoapods/p/Timepiece.svg?style=flat)](http://cocoadocs.org/docsets/Timepiece)
+# Timepiece [![Build Status](https://travis-ci.org/naoty/Timepiece.svg)](https://travis-ci.org/naoty/Timepiece)
 Intuitive NSDate extensions in Swift
 
 ## Usage
