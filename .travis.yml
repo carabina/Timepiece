@@ -4,4 +4,4 @@ before_install:
 language: objective-c
 xcode_project: Timepiece.xcodeproj
 xcode_scheme: Timepiece
-xcode_sdk: iphonesimulator
+xcode_sdk: iphonesimulator8.1
